@@ -1,5 +1,4 @@
 # password prompt
-user_input = input("Please enter your password: ")
 password = "Okeke123"
 
 while True:
